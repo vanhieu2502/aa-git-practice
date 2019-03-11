@@ -1,7 +1,14 @@
+ f8b76795b52f11a64179302412e237ab3d256153
 - fork
 - clone
 - add remote
 - Tạo file: test.txt
 - Điền nội dung vào file
 - add/commit/push/make pull
+- fix conflict : la khac phuc xung dot
 
+=======
+nguyen van hieu
+pr1807
+dang hoc git tai class room 1
+vanhieu
